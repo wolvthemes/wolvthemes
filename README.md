@@ -1,6 +1,6 @@
 # Omar Sarhan's Portfolio
 
-![Portfolio Preview](portfolio-preview.png)
+![Portfolio Preview](images/portfolio-preview.png)
 
 A stunning portfolio showcasing my projects and skills as a front-end developer.
 
@@ -20,13 +20,13 @@ Welcome to my portfolio! This repository showcases my work and accomplishments a
    - A responsive website for a web development company, showcasing their services and portfolio.
    - Technologies used: HTML, CSS, JavaScript
    - [Project Link](https://www.wolvthemes.eu.org/)
-   - ![Project Screenshot](wolvthemes-screenshot.png)
+   - ![Project Screenshot](images/wolvthemes-screenshot.png)
 
 2. Lantro UI
    - A modern & advanced Blogger Theme for building modern and intuitive web applications.
    - Technologies used: HTML, CSS, JavaScript
    - [Project Link](https://protein-towerss.blogspot.com/)
-   - ![Project Screenshot](lantro-ui-screenshot.png)
+   - ![Project Screenshot](images/lantro-ui-screenshot.png)
 
 Feel free to add more projects and provide details about each one.
 
